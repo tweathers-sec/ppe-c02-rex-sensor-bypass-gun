@@ -1,1 +1,3 @@
 This my take on the c02 cartridge tire inflator as a REX Sensor Bypass Tool. I didn't come up with this concept, this is just my preferred method. You can read more about it on the [Pracitical Physical Exploitation Blog](https://physicalexploit.com/blog/rex_gun/). These files are for you to 3d print your own Schrader Valave to Aerosol Tube adapter. They come with no warranty, and the user assumes all risks in the application and use. If you're unable to 3d print the adapter or just want to puchase an already assessmbled unit you can grab one from the [PPE Store](https://store.physicalexploit.com/)
+
+![REX Sensor Bypass Tool](/IMAGES/ppe_c02_rex_sensor_bypass.jpg)
